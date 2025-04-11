@@ -1,2 +1,0 @@
-# .github
-Base of Project
